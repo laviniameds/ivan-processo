@@ -1,0 +1,72 @@
+Info: CustomCategory:desenvolvimento_de_testes: 16 mini seconds publishing element
+Info: DeliveryProcess:Desenvolvimento de Testes: 142 mini seconds publishing element
+Info: DeliveryProcess:Desenvolvimento de Testes: 564 mini seconds publishing process specific layout data
+Info: Phase:Preparação: 47 mini seconds publishing element
+Info: Activity:Preparação do Ambiente: 38 mini seconds publishing element
+Info: TaskDescriptor:instalar_ferramentas_de_teste: 5 mini seconds publishing element
+Info: Activity:Concepção da Feature: 142 mini seconds publishing element
+Info: TaskDescriptor:identificacao_de_funcionalidade: 8 mini seconds publishing element
+Info: TaskDescriptor:identificacao_de_cenario: 6 mini seconds publishing element
+Info: TaskDescriptor:identificacao_de_papeis: 5 mini seconds publishing element
+Info: Phase:Construção: 77 mini seconds publishing element
+Info: Activity:Construção da Funcionalidade: 128 mini seconds publishing element
+Info: TaskDescriptor:implementacao_da_funcionalidade: 7 mini seconds publishing element
+Info: TaskDescriptor:implementao_de_cenarios: 6 mini seconds publishing element
+Info: Activity:Teste da Feature: 151 mini seconds publishing element
+Info: TaskDescriptor:utilizar_ferramenta_automatizada: 6 mini seconds publishing element
+Info: TaskDescriptor:identificar_erros: 6 mini seconds publishing element
+Info: TaskDescriptor:consertar_erros: 6 mini seconds publishing element
+Info: Phase:Documentação: 62 mini seconds publishing element
+Info: Activity:Relatório do Teste: 138 mini seconds publishing element
+Info: TaskDescriptor:documentar_erros: 6 mini seconds publishing element
+Info: TaskDescriptor:revisar_relatorio_final: 6 mini seconds publishing element
+Info: RoleDescriptor:coordenador_dos_testes: 6 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor_de_testes: 6 mini seconds publishing element
+Info: WorkProductDescriptor:ambiente_preparado_para_o_desenvolvimento: 7 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_completa: 5 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_finalizada: 4 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_incompleta: 6 mini seconds publishing element
+Info: WorkProductDescriptor:relatorio_final_de_testes: 4 mini seconds publishing element
+Info: Task:instalar_ferramentas_de_teste: 175 mini seconds publishing element
+Info: WorkProductDescriptor:ambiente_preparado_para_o_desenvolvimento: 3 mini seconds publishing element
+Info: Task:identificacao_de_funcionalidade: 17 mini seconds publishing element
+Info: Task:identificacao_de_cenario: 13 mini seconds publishing element
+Info: Task:identificacao_de_papeis: 11 mini seconds publishing element
+Info: Role:desenvolvedor_de_testes: 518 mini seconds publishing element
+Info: Artifact:feature_de_teste_incompleta: 197 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor_de_testes: 5 mini seconds publishing element
+Info: WorkProductDescriptor:ambiente_preparado_para_o_desenvolvimento: 5 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_completa: 6 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_finalizada: 3 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_incompleta: 3 mini seconds publishing element
+Info: WorkProductDescriptor:relatorio_final_de_testes: 6 mini seconds publishing element
+Info: Task:implementacao_da_funcionalidade: 8 mini seconds publishing element
+Info: Task:implementao_de_cenarios: 19 mini seconds publishing element
+Info: Artifact:feature_de_teste_completa: 29 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor_de_testes: 10 mini seconds publishing element
+Info: WorkProductDescriptor:ambiente_preparado_para_o_desenvolvimento: 3 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_completa: 4 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_finalizada: 7 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_incompleta: 2 mini seconds publishing element
+Info: WorkProductDescriptor:relatorio_final_de_testes: 4 mini seconds publishing element
+Info: Task:utilizar_ferramenta_automatizada: 13 mini seconds publishing element
+Info: Task:identificar_erros: 10 mini seconds publishing element
+Info: Task:consertar_erros: 22 mini seconds publishing element
+Info: Artifact:feature_de_teste_finalizada: 39 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor_de_testes: 5 mini seconds publishing element
+Info: WorkProductDescriptor:ambiente_preparado_para_o_desenvolvimento: 2 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_completa: 3 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_finalizada: 3 mini seconds publishing element
+Info: WorkProductDescriptor:feature_de_teste_incompleta: 3 mini seconds publishing element
+Info: WorkProductDescriptor:relatorio_final_de_testes: 6 mini seconds publishing element
+Info: Task:documentar_erros: 29 mini seconds publishing element
+Info: Task:revisar_relatorio_final: 26 mini seconds publishing element
+Info: Role:coordenador_dos_testes: 30 mini seconds publishing element
+Info: Artifact:relatorio_final_de_testes: 36 mini seconds publishing element
+Info: Artifact:ambiente_preparado_para_o_desenvolvimento: 50 mini seconds publishing element
+Info: Discipline:preparacao_do_ambiente: 6 mini seconds publishing element
+Info: Discipline:concepcao_da_feature: 5 mini seconds publishing element
+Info: Discipline:construcao_da_funcionalidade: 4 mini seconds publishing element
+Info: Discipline:teste_da_feature: 6 mini seconds publishing element
+Info: Discipline:relatrio_do_teste: 5 mini seconds publishing element
+Info: : Publishing time: 0 minutes 4 seconds
