@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XGIVd2u_ol1oIDtZrfL8Aw" name="definir_prioridade_iteracao,_gFbqgDg2EemoUuXa1ZA4Uw" guid="-XGIVd2u_ol1oIDtZrfL8Aw">
+  <sections xmi:id="_NLi_UDh2Eem2IM8NO21dgA" name="Reunir a equipe do processo" guid="_NLi_UDh2Eem2IM8NO21dgA"/>
+  <sections xmi:id="_R-JysDh2Eem2IM8NO21dgA" name="Definir o foco da iteração" guid="_R-JysDh2Eem2IM8NO21dgA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_LYTmEDg0EemoUuXa1ZA4Uw" guid="_LYTmEDg0EemoUuXa1ZA4Uw">
+    <subManagers xmi:id="_3RSJQDg6EemoUuXa1ZA4Uw" href="uma://_3QEBQDg6EemoUuXa1ZA4Uw#_3RSJQDg6EemoUuXa1ZA4Uw"/>
+    <resourceDescriptors xmi:id="_RFF30Dg2EemoUuXa1ZA4Uw" id="-hpWyF-8yN2O2PIC5AiZyig" uri="tasks/revisar_documentacao.xmi"/>
+    <resourceDescriptors xmi:id="_3RRiMDg6EemoUuXa1ZA4Uw" id="_3QEBQDg6EemoUuXa1ZA4Uw" uri="deliveryprocesses/Processo%20iVan/model.xmi"/>
+    <resourceDescriptors xmi:id="_oEt2oDh1Eem2IM8NO21dgA" id="-29A_wWiC7UQ1aULbpnMlJQ" uri="tasks/implementar_funcionalidade.xmi"/>
+    <resourceDescriptors xmi:id="_UHRbUDh2Eem2IM8NO21dgA" id="-XGIVd2u_ol1oIDtZrfL8Aw" uri="tasks/definir_prioridade_iteracao.xmi"/>
+    <resourceDescriptors xmi:id="_4RCM4Dh4Eem2IM8NO21dgA" id="-IPcLAfGuB4rA4sXx9QvPbw" uri="tasks/testar_funcionalidade.xmi"/>
+    <resourceDescriptors xmi:id="_QxoN0Dh5Eem2IM8NO21dgA" id="-6-hv9ETkJqnyaB-0QGOdoA" uri="tasks/validar_funcionalidade.xmi"/>
+    <resourceDescriptors xmi:id="_6wtasDiAEem2IM8NO21dgA" id="-o8s_ZZw9Njbgb4p9Bh7rNQ" uri="customcategories/Processo%20iVan.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_LYOtkDg0EemoUuXa1ZA4Uw" name="Processo iVan" guid="_LYOtkDg0EemoUuXa1ZA4Uw" presentationName="Processo iVan" briefDescription="Processo de Desenvolvimento de Software iVan" authors="Lavinia Medeiros Miranda, Lucas Gabriel Amaro Pereira, Paulo Jeferson da Costa Gomes e Tiago Caio Lisboa" changeDate="2019-02-24T18:50:01.970-0300">
+    <methodElementProperty xmi:id="_LYXQcDg0EemoUuXa1ZA4Uw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_uIjR4Dg0EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtkTg0EemoUuXa1ZA4Uw" name="Content" guid="_LYOtkTg0EemoUuXa1ZA4Uw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtkjg0EemoUuXa1ZA4Uw" name="Categories" guid="_LYOtkjg0EemoUuXa1ZA4Uw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtkzg0EemoUuXa1ZA4Uw" name="Domains" guid="_LYOtkzg0EemoUuXa1ZA4Uw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtlDg0EemoUuXa1ZA4Uw" name="Disciplines" guid="_LYOtlDg0EemoUuXa1ZA4Uw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nZCeMDg6EemoUuXa1ZA4Uw" name="teste" guid="_nZCeMDg6EemoUuXa1ZA4Uw" presentationName="teste">
+            <methodElementProperty xmi:id="_o5vb8Dg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_p0a7gDg6EemoUuXa1ZA4Uw" name="validacao" guid="_p0a7gDg6EemoUuXa1ZA4Uw" presentationName="Validacao">
+            <methodElementProperty xmi:id="_rrwQkDg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_sotBADg6EemoUuXa1ZA4Uw" name="planejamento_de_iteracao" guid="_sotBADg6EemoUuXa1ZA4Uw" presentationName="planejamento_de_iteracao">
+            <methodElementProperty xmi:id="_uIwegDg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_v-WHIDg6EemoUuXa1ZA4Uw" name="implementacao" guid="_v-WHIDg6EemoUuXa1ZA4Uw" presentationName="implementacao">
+            <methodElementProperty xmi:id="_wtwK0Dg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtlTg0EemoUuXa1ZA4Uw" name="RoleSets" guid="_LYOtlTg0EemoUuXa1ZA4Uw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtljg0EemoUuXa1ZA4Uw" name="WP Types" guid="_LYOtljg0EemoUuXa1ZA4Uw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYOtlzg0EemoUuXa1ZA4Uw" name="Tools" guid="_LYOtlzg0EemoUuXa1ZA4Uw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYPUoDg0EemoUuXa1ZA4Uw" name="StandardCategories" guid="_LYPUoDg0EemoUuXa1ZA4Uw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYPUoTg0EemoUuXa1ZA4Uw" name="CustomCategories" guid="_LYPUoTg0EemoUuXa1ZA4Uw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYPUojg0EemoUuXa1ZA4Uw" name="Hidden" guid="_LYPUojg0EemoUuXa1ZA4Uw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LYPUozg0EemoUuXa1ZA4Uw" name="Custom Categories" guid="_LYPUozg0EemoUuXa1ZA4Uw" categorizedElements="_tj6SwDg_EemoUuXa1ZA4Uw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tj6SwDg_EemoUuXa1ZA4Uw" name="Processo iVan" guid="_tj6SwDg_EemoUuXa1ZA4Uw" presentationName="Processo iVan" briefDescription="Processo iVan">
+            <methodElementProperty xmi:id="_uw5qUDg_EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_y9eu8DiAEem2IM8NO21dgA" name="PUBLISH_CATEGORY" value="true"/>
+            <presentation xmi:id="-o8s_ZZw9Njbgb4p9Bh7rNQ" href="uma://-o8s_ZZw9Njbgb4p9Bh7rNQ#-o8s_ZZw9Njbgb4p9Bh7rNQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_3QEBQDg6EemoUuXa1ZA4Uw#_3QEBQTg6EemoUuXa1ZA4Uw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LYPUpDg0EemoUuXa1ZA4Uw" name="CoreContent" guid="_LYPUpDg0EemoUuXa1ZA4Uw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MT4dgDg0EemoUuXa1ZA4Uw" name="planejamento de iteracao" guid="_MT4dgDg0EemoUuXa1ZA4Uw" presentationName="Planejar Iteração" briefDescription="Planejar Iteração">
+          <methodElementProperty xmi:id="_MT8H4Dg0EemoUuXa1ZA4Uw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_mgR48Dg0EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_C3tBgDg1EemoUuXa1ZA4Uw" name="desenvolvedor" guid="_C3tBgDg1EemoUuXa1ZA4Uw" presentationName="Desenvolvedor" briefDescription="Desenvolvedor">
+            <methodElementProperty xmi:id="_GxmrQDg1EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_IMFsQDg1EemoUuXa1ZA4Uw" name="gerente_da_iteracao" guid="_IMFsQDg1EemoUuXa1ZA4Uw" presentationName="Gerente da Iteração" briefDescription="Gerente da Iteração">
+            <methodElementProperty xmi:id="_Jv4aQDg1EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CyLy4Dg2EemoUuXa1ZA4Uw" name="revisar_documentacao" guid="_CyLy4Dg2EemoUuXa1ZA4Uw" presentationName="Revisar documentação do sistema" briefDescription="Revisar documentação do sistema" performedBy="_IMFsQDg1EemoUuXa1ZA4Uw _C3tBgDg1EemoUuXa1ZA4Uw" mandatoryInput="_0GctsDh2Eem2IM8NO21dgA _ySKQIDh3Eem2IM8NO21dgA">
+            <methodElementProperty xmi:id="_Fre7QDg2EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+            <presentation xmi:id="-hpWyF-8yN2O2PIC5AiZyig" href="uma://-hpWyF-8yN2O2PIC5AiZyig#-hpWyF-8yN2O2PIC5AiZyig"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gFbqgDg2EemoUuXa1ZA4Uw" name="definir_prioridade_iteracao" guid="_gFbqgDg2EemoUuXa1ZA4Uw" presentationName="Definir Prioridade da Iteração" briefDescription="Definir Prioridade da Iteração" performedBy="_IMFsQDg1EemoUuXa1ZA4Uw" mandatoryInput="_0GctsDh2Eem2IM8NO21dgA" output="_LmTDUDh3Eem2IM8NO21dgA" additionallyPerformedBy="_C3tBgDg1EemoUuXa1ZA4Uw">
+            <methodElementProperty xmi:id="_sdqygDg2EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+            <presentation xmi:id="-XGIVd2u_ol1oIDtZrfL8Aw" href="uma://-XGIVd2u_ol1oIDtZrfL8Aw#-XGIVd2u_ol1oIDtZrfL8Aw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_ipQcsDg3EemoUuXa1ZA4Uw" name="plano_de_iteracao" guid="_ipQcsDg3EemoUuXa1ZA4Uw" presentationName="plano_de_iteracao" briefDescription="Plano de Iteração">
+            <methodElementProperty xmi:id="_kK_8QDg3EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pwSw0Dg3EemoUuXa1ZA4Uw" name="montar_plano_de_iteracao" guid="_pwSw0Dg3EemoUuXa1ZA4Uw" presentationName="Montar Plano de Iteração" briefDescription="Montar Plano de Iteração" performedBy="_IMFsQDg1EemoUuXa1ZA4Uw" mandatoryInput="_LmTDUDh3Eem2IM8NO21dgA" output="_ipQcsDg3EemoUuXa1ZA4Uw">
+            <methodElementProperty xmi:id="_rd47EDg3EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0GctsDh2Eem2IM8NO21dgA" name="projeto_implementado" guid="_0GctsDh2Eem2IM8NO21dgA" presentationName="Projeto Implementado" briefDescription="Projeto Implementado">
+            <methodElementProperty xmi:id="_3RoQQDh2Eem2IM8NO21dgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LmTDUDh3Eem2IM8NO21dgA" name="funcionalidade_escolhida" guid="_LmTDUDh3Eem2IM8NO21dgA" presentationName="Funcionalidade Escolhida" briefDescription="Funcionalidade Escolhida">
+            <methodElementProperty xmi:id="_NSyaUDh3Eem2IM8NO21dgA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ySKQIDh3Eem2IM8NO21dgA" name="documentacao_do_projeto_implementado" guid="_ySKQIDh3Eem2IM8NO21dgA" presentationName="Documentação do projeto implementado" briefDescription="Documentação do projeto implementado">
+            <methodElementProperty xmi:id="_z3J4ADh3Eem2IM8NO21dgA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vUHtIDg0EemoUuXa1ZA4Uw" name="implementacao" guid="_vUHtIDg0EemoUuXa1ZA4Uw">
+          <methodElementProperty xmi:id="_vULXgDg0EemoUuXa1ZA4Uw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_xs14ADg0EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Ukr5QDg4EemoUuXa1ZA4Uw" name="plano_de_iteracao" guid="_Ukr5QDg4EemoUuXa1ZA4Uw" presentationName="Plano de Iteração" briefDescription="Plano de Iteração">
+            <methodElementProperty xmi:id="_Zf09kDg4EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_c_osUDg4EemoUuXa1ZA4Uw" name="implementar_funcionalidade" guid="_c_osUDg4EemoUuXa1ZA4Uw" presentationName="Implementar Funcionalidade" briefDescription="Implementar Funcionalidade" performedBy="_C3tBgDg1EemoUuXa1ZA4Uw" mandatoryInput="_Ukr5QDg4EemoUuXa1ZA4Uw" output="_K8tc8Dg5EemoUuXa1ZA4Uw">
+            <methodElementProperty xmi:id="_jeNSQDg4EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+            <presentation xmi:id="-29A_wWiC7UQ1aULbpnMlJQ" href="uma://-29A_wWiC7UQ1aULbpnMlJQ#-29A_wWiC7UQ1aULbpnMlJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_K8tc8Dg5EemoUuXa1ZA4Uw" name="funcionalidade_implementada" guid="_K8tc8Dg5EemoUuXa1ZA4Uw" presentationName="Funcionalidade Implementada" briefDescription="Funcionalidade Implementada">
+            <methodElementProperty xmi:id="_MOVc4Dg5EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3L8lADg0EemoUuXa1ZA4Uw" name="teste" guid="_3L8lADg0EemoUuXa1ZA4Uw" presentationName="teste">
+          <methodElementProperty xmi:id="_3L8lATg0EemoUuXa1ZA4Uw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_32bFYDg0EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_doLdkDg5EemoUuXa1ZA4Uw" name="funcionalidade_implementada" guid="_doLdkDg5EemoUuXa1ZA4Uw" presentationName="Funcionalidade Implementada" briefDescription="Funcionalidade Implementada">
+            <methodElementProperty xmi:id="_fKAcsDg5EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hby5IDg5EemoUuXa1ZA4Uw" name="testar_funcionalidade" guid="_hby5IDg5EemoUuXa1ZA4Uw" presentationName="Testar Funcionalidade" briefDescription="Testar Funcionalidade" performedBy="_C3tBgDg1EemoUuXa1ZA4Uw">
+            <methodElementProperty xmi:id="_imS9YDg5EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+            <presentation xmi:id="-IPcLAfGuB4rA4sXx9QvPbw" href="uma://-IPcLAfGuB4rA4sXx9QvPbw#-IPcLAfGuB4rA4sXx9QvPbw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_oldqgDg5EemoUuXa1ZA4Uw" name="resultado_do_teste" guid="_oldqgDg5EemoUuXa1ZA4Uw" presentationName="Resultado do Teste" briefDescription="Resultado do Teste">
+            <methodElementProperty xmi:id="_p-8l8Dg5EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sAycDg0EemoUuXa1ZA4Uw" name="validacao" guid="_6sAycDg0EemoUuXa1ZA4Uw" briefDescription="Validação">
+          <methodElementProperty xmi:id="_6sBZgDg0EemoUuXa1ZA4Uw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_-P8zQDg0EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_xwBVkDg5EemoUuXa1ZA4Uw" name="cliente" guid="_xwBVkDg5EemoUuXa1ZA4Uw" presentationName="Cliente">
+            <methodElementProperty xmi:id="_yuTiwDg5EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BlVBYDg6EemoUuXa1ZA4Uw" name="funcionalidade_testada" guid="_BlVBYDg6EemoUuXa1ZA4Uw" presentationName="Funcionalidade Testada" briefDescription="Funcionalidade Testada">
+            <methodElementProperty xmi:id="_JVqxMDg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LgJrwDg6EemoUuXa1ZA4Uw" name="validar_funcionalidade" guid="_LgJrwDg6EemoUuXa1ZA4Uw" presentationName="Validar Funcionalidade" briefDescription="Validar Funcionalidade" mandatoryInput="_BlVBYDg6EemoUuXa1ZA4Uw" output="_RCi9UDg6EemoUuXa1ZA4Uw">
+            <methodElementProperty xmi:id="_N1E7wDg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+            <presentation xmi:id="-6-hv9ETkJqnyaB-0QGOdoA" href="uma://-6-hv9ETkJqnyaB-0QGOdoA#-6-hv9ETkJqnyaB-0QGOdoA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_RCi9UDg6EemoUuXa1ZA4Uw" name="funcionalidade_validada" guid="_RCi9UDg6EemoUuXa1ZA4Uw" presentationName="Funcionalidade Validada" briefDescription="Funcionalidade Validada">
+            <methodElementProperty xmi:id="_SU6kIDg6EemoUuXa1ZA4Uw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LYPUpTg0EemoUuXa1ZA4Uw" name="CapabilityPatterns" guid="_LYPUpTg0EemoUuXa1ZA4Uw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LYPUpjg0EemoUuXa1ZA4Uw" name="DeliveryProcesses" guid="_LYPUpjg0EemoUuXa1ZA4Uw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_3QEBQDg6EemoUuXa1ZA4Uw" href="uma://_3QEBQDg6EemoUuXa1ZA4Uw#_3QEBQDg6EemoUuXa1ZA4Uw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LYPUpzg0EemoUuXa1ZA4Uw" name="ProcessContributions" guid="_LYPUpzg0EemoUuXa1ZA4Uw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

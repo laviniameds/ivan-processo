@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_y64-YPpNEei0J5mg9rEWvA" guid="_y64-YPpNEei0J5mg9rEWvA">
+    <subManagers xmi:id="__3mscPpNEei0J5mg9rEWvA" href="uma://__3ewoPpNEei0J5mg9rEWvA#__3mscPpNEei0J5mg9rEWvA"/>
+    <subManagers xmi:id="_LYTmEDg0EemoUuXa1ZA4Uw" href="uma://_LYOtkDg0EemoUuXa1ZA4Uw#_LYTmEDg0EemoUuXa1ZA4Uw"/>
+    <resourceDescriptors xmi:id="_y66zkPpNEei0J5mg9rEWvA" id="_y63JMPpNEei0J5mg9rEWvA" uri=""/>
+    <resourceDescriptors xmi:id="__3nTgPpNEei0J5mg9rEWvA" id="__3ewoPpNEei0J5mg9rEWvA" uri="desenvolvimento_de_testes/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_LYTmETg0EemoUuXa1ZA4Uw" id="_LYOtkDg0EemoUuXa1ZA4Uw" uri="Processo%20iVan/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_y63JMPpNEei0J5mg9rEWvA" name="processo" guid="_y63JMPpNEei0J5mg9rEWvA">
+    <methodElementProperty xmi:id="_y8vYgPpNEei0J5mg9rEWvA" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_LYOtkDg0EemoUuXa1ZA4Uw" href="uma://_LYOtkDg0EemoUuXa1ZA4Uw#_LYOtkDg0EemoUuXa1ZA4Uw"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

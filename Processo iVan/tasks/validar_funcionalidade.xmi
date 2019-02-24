@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-hv9ETkJqnyaB-0QGOdoA" name="validar_funcionalidade,_LgJrwDg6EemoUuXa1ZA4Uw" guid="-6-hv9ETkJqnyaB-0QGOdoA">
+  <sections xmi:id="_MwGSEDh5Eem2IM8NO21dgA" name="Identificar escopo da funcionalidade " guid="_MwGSEDh5Eem2IM8NO21dgA"/>
+  <sections xmi:id="_OudcMDh5Eem2IM8NO21dgA" name="Validar Funcionalidade" guid="_OudcMDh5Eem2IM8NO21dgA"/>
+</org.eclipse.epf.uma:TaskDescription>

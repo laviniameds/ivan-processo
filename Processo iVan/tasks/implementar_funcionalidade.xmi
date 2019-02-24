@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-29A_wWiC7UQ1aULbpnMlJQ" name="implementar_funcionalidade,_c_osUDg4EemoUuXa1ZA4Uw" guid="-29A_wWiC7UQ1aULbpnMlJQ">
+  <sections xmi:id="_kjqxwDh1Eem2IM8NO21dgA" name="Identificar funcionalidade no projeto" guid="_kjqxwDh1Eem2IM8NO21dgA"/>
+  <sections xmi:id="_oh5h4Dh1Eem2IM8NO21dgA" name="Implementar funcionalidade" guid="_oh5h4Dh1Eem2IM8NO21dgA"/>
+</org.eclipse.epf.uma:TaskDescription>

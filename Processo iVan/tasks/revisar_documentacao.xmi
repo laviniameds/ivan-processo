@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hpWyF-8yN2O2PIC5AiZyig" name=",_CyLy4Dg2EemoUuXa1ZA4Uw" guid="-hpWyF-8yN2O2PIC5AiZyig">
+  <mainDescription>&lt;br /></mainDescription>
+  <sections xmi:id="_cFfPEDh2Eem2IM8NO21dgA" name="Revisar Escopo do Projeto" guid="_cFfPEDh2Eem2IM8NO21dgA">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_X3u1MDh2Eem2IM8NO21dgA" name="Revisar Requisitos" guid="_X3u1MDh2Eem2IM8NO21dgA"/>
+  <sections xmi:id="_Y8gE4Dh2Eem2IM8NO21dgA" name="Revisar Casos de Uso" guid="_Y8gE4Dh2Eem2IM8NO21dgA"/>
+  <sections xmi:id="_auGlYDh2Eem2IM8NO21dgA" name="Revisar Diagramas" guid="_auGlYDh2Eem2IM8NO21dgA">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_jUsAsDh2Eem2IM8NO21dgA" name="Revisar Documentação Geral" guid="_jUsAsDh2Eem2IM8NO21dgA">
+    <sectionDescription>Revisar Documentação Geral presente no repositório online do projeto</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

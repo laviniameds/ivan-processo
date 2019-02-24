@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-Ot93WMu8qB6gAEvhfBehVg" name="ivan_processo,_3QEBQTg6EemoUuXa1ZA4Uw" guid="-Ot93WMu8qB6gAEvhfBehVg">
+    <mainDescription>&lt;div>
+            Grupo: Lavinia Medeiros Miranda, Lucas Gabriel Amaro Pereira,&amp;nbsp;Paulo Jeferson da Costa Gomes e Tiago Caio Lisboa
+        &lt;/div></mainDescription>
+    <purpose>&lt;br /></purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JNBUhzfem1L93vRH1KQX2g" name="revisar_documentacao,_2QwD4jg7EemoUuXa1ZA4Uw" guid="-JNBUhzfem1L93vRH1KQX2g">
+    <refinedDescription>&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>
