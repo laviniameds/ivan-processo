@@ -1,0 +1,47 @@
+Info: DeliveryProcess:Processo iVan: 99 mini seconds publishing element
+Info: DeliveryProcess:Processo iVan: 420 mini seconds publishing process specific layout data
+Info: Phase:Planejamento da Iteração: 43 mini seconds publishing element
+Info: Activity:Planejar Iteração: 148 mini seconds publishing element
+Info: Task:definir_prioridade_iteracao: 15 mini seconds publishing element
+Info: TaskDescriptor:Definir Prioridade da Iteração: 5 mini seconds publishing element
+Info: Role:gerente_da_iteracao: 39 mini seconds publishing element
+Info: RoleDescriptor:Gerente da Iteração: 8 mini seconds publishing element
+Info: Role:desenvolvedor: 38 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 6 mini seconds publishing element
+Info: Artifact:projeto_implementado: 8 mini seconds publishing element
+Info: WorkProductDescriptor:Projeto Implementado: 5 mini seconds publishing element
+Info: Artifact:funcionalidade_escolhida: 8 mini seconds publishing element
+Info: WorkProductDescriptor:Funcionalidade Escolhida: 16 mini seconds publishing element
+Info: Task:montar_plano_de_iteracao: 11 mini seconds publishing element
+Info: TaskDescriptor:Montar Plano de Iteração: 2 mini seconds publishing element
+Info: Outcome:plano_de_iteracao: 7 mini seconds publishing element
+Info: WorkProductDescriptor:Plano de Iteração: 6 mini seconds publishing element
+Info: Task:revisar_documentacao: 15 mini seconds publishing element
+Info: TaskDescriptor:Revisar documentação do sistema: 5 mini seconds publishing element
+Info: Artifact:documentacao_do_projeto_implementado: 5 mini seconds publishing element
+Info: WorkProductDescriptor:Documentação do projeto implementado: 3 mini seconds publishing element
+Info: Iteration:Iteração: 52 mini seconds publishing element
+Info: Phase:Implementação: 36 mini seconds publishing element
+Info: Activity:Implementar Funcionalidade: 55 mini seconds publishing element
+Info: Task:implementar_funcionalidade: 13 mini seconds publishing element
+Info: TaskDescriptor:Implementar Funcionalidade: 26 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 4 mini seconds publishing element
+Info: Artifact:plano_de_iteracao: 11 mini seconds publishing element
+Info: WorkProductDescriptor:Plano de Iteração: 7 mini seconds publishing element
+Info: Outcome:funcionalidade_implementada: 13 mini seconds publishing element
+Info: WorkProductDescriptor:Funcionalidade Implementada: 4 mini seconds publishing element
+Info: Phase:Teste: 38 mini seconds publishing element
+Info: Activity:Testar Funcionalidade: 55 mini seconds publishing element
+Info: Task:testar_funcionalidade: 21 mini seconds publishing element
+Info: TaskDescriptor:Testar Funcionalidade: 3 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 3 mini seconds publishing element
+Info: Phase:Validação: 48 mini seconds publishing element
+Info: Activity:Validar Funcionalidade: 42 mini seconds publishing element
+Info: Task:validar_funcionalidade: 14 mini seconds publishing element
+Info: TaskDescriptor:Validar Funcionalidade: 6 mini seconds publishing element
+Info: Artifact:funcionalidade_testada: 11 mini seconds publishing element
+Info: WorkProductDescriptor:Funcionalidade Testada: 4 mini seconds publishing element
+Info: Outcome:funcionalidade_validada: 8 mini seconds publishing element
+Info: WorkProductDescriptor:Funcionalidade Validada: 4 mini seconds publishing element
+Info: CustomCategory:Processo iVan: 3 mini seconds publishing element
+Info: : Publishing time: 0 minutes 2 seconds
